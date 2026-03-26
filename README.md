@@ -2,6 +2,8 @@
 
 Bachelor Thesis - Gaussian-Driven Model-Based Reinforcement Learning with Vector Quantisation for State Generalisation
 
+The bachelor’s thesis can be found [here](https://emiljohns1.github.io/BachelorThesis/bachelor.pdf).
+
 ## Installation Guide
 
 ### Python Version
